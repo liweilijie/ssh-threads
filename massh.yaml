@@ -1,0 +1,10 @@
+---
+
+default_auth:
+  pubkey: /Users/liwei/.ssh/id_rsa
+default_port: 22216
+default_user: cat
+threads: 0
+timeout: 5000
+hosts:
+  - 222.213.23.75
